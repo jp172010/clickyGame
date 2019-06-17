@@ -1,7 +1,8 @@
 .header {
     width: 100%;
-    font-size: 2rem;
-    color: #2a77ae;
+    font-weight: bolder;
+    font-size: 3rem;
+    color: blue;
     margin-bottom: 10px;
 }
 
